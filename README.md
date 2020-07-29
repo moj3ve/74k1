@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=74k1&show_icons=true&hide_border=true&theme=buefy&count_private=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=74k1&show_icons=true&hide_border=true&theme=buefy&count_private=true&&hide=prs,issues,contribs" />
 
 [website]: https://taki.moe
 [twitter]: https://twitter.com/74k1_
